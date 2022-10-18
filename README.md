@@ -1,5 +1,7 @@
 # Beroepsrollen 
 
+<img src=".\images\FontysLogo.jpg" alt="Fontys logo" width="200"/>
+
 Op deze pagina vindt u een overzicht van de verschillende beroepsrollen, waarvan ik mijn competentie zal aantonen. 
 
 <div class="alert alert-warning" role="alert">
@@ -8,10 +10,18 @@ Op deze pagina vindt u een overzicht van de verschillende beroepsrollen, waarvan
 
 ***
 
-## 1. Netwerker
+## 1. Talent coach
 
 ***
 
-## 2. Betaprofessional 
+## 2. Ontwerper
+
+***
+
+## 3. Netwerker
+
+***
+
+## 4. Beta technisch professional 
 
 ***
